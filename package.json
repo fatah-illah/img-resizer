@@ -1,0 +1,17 @@
+{
+  "name": "img-resizer-electron-nodejs",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "Desktop App Img Resizer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Fatahillah",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^23.1.0",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
